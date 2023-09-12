@@ -95,12 +95,12 @@ const styles = StyleSheet.create({
 
 // Your web app's Firebase configuration
 //const firebaseConfig = {
-//  apiKey: "AIzaSyClu5kaUDmfUQ7lwXZp0PqkQ82WmHHCtoc",
-//  authDomain: "myproject-c9714.firebaseapp.com",
-//  projectId: "myproject-c9714",
-//  storageBucket: "myproject-c9714.appspot.com",
-//  messagingSenderId: "977331403082",
-//  appId: "1:977331403082:web:e9238c995f4a54775d29b3"
+//  apiKey: "AIzaS...",
+//  authDomain: "..",
+//  projectId: "..",
+//  storageBucket: ".appspot.com",
+//  messagingSenderId: "..",
+//  appId: "1:..."
 //};
 
 // Initialize Firebase
