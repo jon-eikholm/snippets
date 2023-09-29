@@ -7,5 +7,6 @@ from tensorflow.keras.layers import MaxPool2D
 from tensorflow.keras.layers import Flatten
 from tensorflow.keras.layers import Dense
 from keras.preprocessing import image
+from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.models import load_model
 from matplotlib import pyplot
