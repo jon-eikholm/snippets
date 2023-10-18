@@ -17,3 +17,6 @@ SEED = 42
 LOAD_MODEL = True
 BATCH_SIZE = 32
 EPOCHS = 1
+
+
+# data: https://drive.google.com/file/d/15bvblqRi-6qTpWD3Mft7ZIvfQtXU3uBE/view?usp=sharing
