@@ -19,4 +19,4 @@ BATCH_SIZE = 32
 EPOCHS = 1
 
 
-# data: https://drive.google.com/file/d/15bvblqRi-6qTpWD3Mft7ZIvfQtXU3uBE/view?usp=sharing
+# data: https://drive.google.com/uc?export=download&id=15bvblqRi-6qTpWD3Mft7ZIvfQtXU3uBE
