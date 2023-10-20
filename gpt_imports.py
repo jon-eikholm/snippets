@@ -20,3 +20,14 @@ EPOCHS = 1
 
 
 # data: https://drive.google.com/uc?export=download&id=15bvblqRi-6qTpWD3Mft7ZIvfQtXU3uBE
+
+# EKSTRA kode, som optæller alle ord og unikke ord:
+from collections import Counter
+
+all_tokens = [token for sentence in text_data for token in sentence.lower().split()] # alle ordene i hele sættet
+wordSet = set(all_tokens)
+print("antal unikke ord: " + str(len(wordSet)))
+
+token_freqs = Counter(all_tokens) # dictionary, som ved hvor mange gange alle ordene forekommer
+token_freqs['wine'] # viser antal gange det givne ord forekommer.
+print("antal ord tilsammen: " + str(len(all_tokens)))
